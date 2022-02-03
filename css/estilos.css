@@ -1,8 +1,11 @@
 body
 {
-    color:deeppink;
+    color:rgb(0, 158, 137);
     text-align: left;
-    font-family: "Arial";
+    font-family: "Courier";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 
 #container
@@ -17,4 +20,5 @@ body
 #container h1
 {
 font-size: 20px;
+color: seagreen;
 }
