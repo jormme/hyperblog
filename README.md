@@ -1,3 +1,3 @@
 # hyperblog
 Un blog increíble para el curso de Git y Github de Platzi
-4
+* Creado por el increíble Platzi team
